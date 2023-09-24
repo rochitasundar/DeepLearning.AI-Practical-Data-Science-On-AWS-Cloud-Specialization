@@ -18,3 +18,16 @@ Dataset review. Configure the Autopilot job. Launch Autopilot job. Track Autopil
 - *Lab 4: Train a text classifier using Amazon SageMaker BlazingText built-in algorithm*
 
 Prepare dataset. Train the model with Amazon SageMaker BlazingText. Deploy the model. Test the model. 
+
+## Build, Train, and Deploy ML Pipelines using BERT
+- *Lab 1: Feature transformation with Amazon SageMaker processing job and Feature Store*
+
+Configure the SageMaker Feature Store. Transform the dataset. Inspect the transformed data. Query the Feature Store.
+
+- *Lab 2: Train a review classifier with BERT and Amazon SageMaker*
+
+Configure dataset. Configure model hyper-parameters. Setup evaluation metrics, debugger and profiler. Train model. Analyze debugger results. Deploy and test the model. 
+
+- *Lab 3: SageMaker pipelines to train a BERT-Based text classifier*
+
+Configure dataset and processing step. Configure training step. Configure model-evaluation step. Configure register model step. Create model for deployment step. Check accuracy condition step. Create and start pipeline. List pipeline artifacts. Approve and deploy model. 
