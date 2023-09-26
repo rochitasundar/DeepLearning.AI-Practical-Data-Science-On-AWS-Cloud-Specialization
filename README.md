@@ -31,3 +31,17 @@ Configure dataset. Configure model hyper-parameters. Setup evaluation metrics, d
 - *Lab 3: SageMaker pipelines to train a BERT-Based text classifier*
 
 Configure dataset and processing step. Configure training step. Configure model-evaluation step. Configure register model step. Create model for deployment step. Check accuracy condition step. Create and start pipeline. List pipeline artifacts. Approve and deploy model. 
+
+
+## Optimize ML Models and Deploy Human-in-the-Loop Pipelines
+- *Lab 1: Optimize models using Automatic Model Tuning*
+
+Configure dataset. Configure and run hyper-parameter tuning job. Evaluate the results. 
+
+- *Lab 2: A/B testing, traffic shifting and autoscaling*
+
+Configure and create REST Enpoint with multiple variants. Test the model. Show the metrics for each variant. Shift all traffic to one variant. Configure one variant to autoscale. 
+
+- *Lab 3: Data labeling and human-in-the-loop pipelines with Amazon Augmented AI (A2I)*
+
+Setup private workforce and Cognito pool. Create the Human Task UI using a Worker Task Template. Create a Flow Definition. Start and check the status of human loop. Verify the completion. View the labels and prepare data for training.
